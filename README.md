@@ -1,33 +1,52 @@
-# Hello, I'm Ajay Upadhyay! 👋
+# 👋 Hello, I'm Ajay Upadhyay!
 
-## About Me
+## 📚 About Me
 
-👨‍🎓 I'm a 21-year-old student pursuing Computer Science and Engineering.
+- 🎓 I'm a 21-year-old Computer Science and Engineering student.
+- 🌱 Passionate about STEM (Science, Technology, Engineering, Mathematics).
+- 📍 Living in Indore, Madhya Pradesh, India.
 
-🌱 I'm passionate about STEM (Science, Technology, Engineering, Mathematics) and always eager to learn and explore new technologies.
+## 💻 Skills
 
-📍 I currently live in Indore, Madhya Pradesh, India.
+### 🛠️ Programming Languages
+- Python
+- JavaScript
+- C++
 
-## Skills
+### 🌐 Full Stack Development
+- **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js)
+- **Backend**: Express, Node.js
+- **Frameworks**: Next.js
 
-- **Programming Languages**: Python, JavaScript, C++
-- **Full Satck Development**: HTML, CSS, Tailwind CSS, JavaScript, Zod, React, Express, Node.js, Next.js
+### 🗃️ Databases
+- SQL, NOSql
+- MongoDB
 
-- **Database**: SQL, MongoDB
-- **Other**: Git, Data Structures and Algorithms
+### 🛡️ Other
+- Git
+- Data Structures and Algorithms
 
-
-## Education
+## 🎓 Education
 
 - **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
   - Oriental University, 2023 - Present
 
-## Connect with Me
+## 📱 Connect with Me
 
-- LinkedIn: [Ajay Upadhyay](https://www.linkedin.com/in/upajay/)
-- GitHub: [ajayupadhyay](https://github.com/57ajay)
-- Email: 57ajay.u@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/upajay/)
+- 💼 [GitHub](https://github.com/57ajay)
+- 🐦 [X/Twitter](https://twitter.com/57ajy)
+- 📸 [Instagram](https://www.instagram.com/57aja.y/)
+- 💬 [Threads](https://www.threads.net/@57aja.y)
+- 📧 Email: 57ajay.u@gmail.com
 
-## 🚀 Fun Fact
+## 🚀 Fun Facts
 
-I love to solve coding challenges and create something new in my free time!
+- 🧠 I love to solve coding challenges and participate in hackathons.
+- 📚 Always reading tech blogs and learning new things.
+- 🎮 A casual Reader in my spare time.
+
+## 📊 GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=57ajay&show_icons=true&theme=dark)
+
