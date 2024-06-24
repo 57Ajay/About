@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 
-- 🎓 I'm a 21-year-old Computer Science and Engineering student.
+- 🎓 I'm a  Computer Science and Engineering student.
 - 🌱 Passionate about STEM (Science, Technology, Engineering, Mathematics).
 - 📍 Living in Indore, Madhya Pradesh, India.
 
@@ -11,25 +11,30 @@
 ### 🛠️ Programming Languages
 - Python
 - JavaScript
-- C++
+- Typescript
+- C/C++
 
 ### 🌐 Full Stack Development
-- **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js)
-- **Backend**: Express, Node.js
-- **Frameworks**: Next.js
+- **Frontend**: HTML5, CSS (including TailwindCSS), JavaScript (Zod, React.js), Typescript
+- **Backend**: Express, Node.js, Convex
+- **Frameworks**: Next.js, Vite.js
 
 ### 🗃️ Databases
 - SQL, NOSql
 - MongoDB
+- PostgreSQL
+- SQLite
 
 ### 🛡️ Other
 - Git
-- Data Structures and Algorithms
+- Bash
+- GitHub
+- Data Structures and Algorithms(C++)
 
 ## 🎓 Education
 
 - **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
-  - Oriental University, 2023 - Present
+  - Oriental University (INDORE), 2023 - Present
 
 ## 📱 Connect with Me
 
@@ -50,3 +55,8 @@
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=57ajay&show_icons=true&theme=dark)
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=57ajay&theme=dark)
+
+![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,react,nextjs,mongodb,sqlite,mysql,postgresql,nodejs,bash,git,github,express,vite,javascript,typescript&perline=5)](https://skillicons.dev)
